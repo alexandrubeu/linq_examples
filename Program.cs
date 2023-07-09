@@ -29,6 +29,7 @@ var profiles = new List<Profile>
 PrintStudents(students);
 PrintProfiles(profiles);
 
+
 // #1. Order Students by Age 
 
 // #2. Same as above and filter the students that are over 18 years old 
@@ -45,4 +46,6 @@ PrintProfiles(profiles);
     
 // #8.  Find the youngest student.
 
-// #9. Write all the queries from above in query Syntax. 
+// #9. Extract the total age for all our Students
+
+// #10. Write all the queries from above in query Syntax. 
